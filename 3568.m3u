@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="央视",CCTV3
+http://wabc.ml/sxg.php?id=CCTV-3H265_4000
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="央视",CCTV5
+http://wabc.ml/sxg.php?id=CCTV-5H265_4000
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="央视",CCTV6
+http://wabc.ml/sxg.php?id=CCTV-6H265_4000
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="央视",CCTV8
+http://wabc.ml/sxg.php?id=CCTV-8H265_4000
