@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="央视",CCTV3
 http://140.207.241.2:8080/live/program/live/cctv3/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="央视",CCTV5
-http://wabc.ml/sxg.php?id=CCTV-5H265_4000
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="央视",CCTV6
-http://wabc.ml/sxg.php?id=CCTV-6H265_4000
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="央视",CCTV8
-http://wabc.ml/sxg.php?id=CCTV-8H265_4000
+https://stream1.freetv.fun/57f6d93bd0efecdc5e7211d3da89e618bad97e16adbda2da38b2a7efc39582ad.m3u8
+https://stream1.freetv.fun/6af1408c6f712682ac474dfdd96a5679585b7647741520a1c50ce9b8623c1af4.m3u8
+https://stream1.freetv.fun/7efe02dcb4e8722121af5a3b1e462b7adc8cd466829e19356504fe1d572ad213.m3u8
+https://stream1.freetv.fun/7b13f594a72928369cc9a2ddb9fb696cbd319018506c7a773eed9b04d168039f.m3u8
+https://stream1.freetv.fun/3f73d01cee794593333c58b23aa422d555ae1e969f9578841f88b4e00bb77579.ctv
